@@ -1,7 +1,7 @@
 - 👋 Olá, Eu sou @lucaspandradedev
-- 👀 Estou interessado em aprender as mais diversas linguagens de programação
+- 👀 Estou interessado em: Aprender as mais diversas linguagens de programação
 - 🌱 Atualmente estou aprendendo: Python, HTML 5 e CSS 3
-- 💞️ Procuro colaborar com qualquer pessoa com bons projetos, bons ideais etc.
+- 💞️ Procuro colaborar com: Qualquer pessoa com bons projetos, bons ideais etc.
 - 📫 Como chegar até mim: Instagram: @lpdas_  /  E-mail: lucaspandrade.dev@gmail.com
 
 <!---
