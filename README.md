@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://github.com/lucaspandradedev">
-  <img height="189em" src="https://github-readme-stats.vercel.app/api?username=lucaspandradedev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="189em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspandradedev&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="188em" src="https://github-readme-stats.vercel.app/api?username=lucaspandradedev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspandradedev&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
   
