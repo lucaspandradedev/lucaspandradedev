@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Andrade
 - 👀 Estou interessado em: uma primeira oportunidade para me colocar no mercado de trabalho como programador/desenvolvedor;
-- 🌱 Atualmente estou aprendendo: HTML 5, CSS 3, Python ...;
+- 🌱 Atualmente estou aprendendo: HTML 5, CSS 3, Python, JavaScript, MySQL;
 - 💞️ Procuro colaborar com: Qualquer pessoa com bons projetos, bons ideais etc;
 
 <!---
