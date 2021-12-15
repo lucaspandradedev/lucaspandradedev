@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <a href="https://www.instagram.com/lpdas_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucaspandrade.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/lucas-pereira-738b68144" target="_blank">Clique aqui</a>
+   <a href = "https://www.linkedin.com/in/lucas-pereira-738b68144/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   
   ![Snake animation](https://github.com/lucaspandradedev/lucaspandradedev/blob/output/github-contribution-grid-snake.svg)
