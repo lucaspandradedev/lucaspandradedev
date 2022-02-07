@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Andrade
 - 👀 Estou interessado em: uma primeira oportunidade para me colocar no mercado de trabalho como programador/desenvolvedor;
-- 🌱 Atualmente estou aprendendo: HTML 5, CSS 3, Python, JavaScript, MySQL;
+- 🌱 Atualmente estou aprendendo: HTML 5, CSS 3, Python, JavaScript, MySQL, TypeScript, React...;
 - 💞️ Procuro colaborar com: Qualquer pessoa com bons projetos, bons ideais etc;
 
 <!---
@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
     <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Lucas-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Lucas-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="Lucas-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   </div>
