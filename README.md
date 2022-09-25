@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Lucas Andrade
 - 👀 Estou interessado em: uma primeira oportunidade para me colocar no mercado de trabalho como programador/desenvolvedor;
-- 🌱 Atualmente estou aprendendo: HTML 5, CSS 3, Python, JavaScript, MySQL, TypeScript, React...;
-- 💞️ Procuro colaborar com: Qualquer pessoa com bons projetos, bons ideais etc;
+- 🌱 Atualmente estou aprendendo: Django Framework. Logo abaixo você poderá ver as medalhas das linguagens e framewoks que já estudei :)
 
 <!---
 lucaspandradedev/lucaspandradedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
